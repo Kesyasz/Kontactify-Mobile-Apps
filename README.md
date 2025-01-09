@@ -34,6 +34,11 @@ Kontactify adalah aplikasi pengelola kontak yang dirancang untuk menyimpan, meng
 
 ---
 
+## **📜 Documentation**
+Untuk informasi lebih lanjut mengenai flow project, atau detail lainnya, silakan kunjungi dokumentasi resmi di [Kontactify Documentation](https://www.notion.so/Documentation-Kontactify-Mobile-Apps-175ef660f5c58039bb58d4e7b2d504ca?pvs=4).
+
+---
+
 ## **🚀 Installation**  
 1. **Clone Repository**:
    ```bash
