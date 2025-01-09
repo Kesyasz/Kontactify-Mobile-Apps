@@ -21,7 +21,7 @@ Kontactify adalah aplikasi pengelola kontak yang dirancang untuk menyimpan, meng
   - Nomor telepon
   - Email
   - Catatan tambahan
-  - Fitur edit dan tambah catatan untuk menyimpan informasi penting lainnya.- **Login Page**: Validasi email dan password untuk keamanan.
+  - Fitur edit dan tambah catatan untuk menyimpan informasi penting lainnya.
 - **Forgot Password Page**: Reset kata sandi dengan validasi keamanan.
 - **Home Page**: Menampilkan daftar kontak, pencarian real-time, filter, dan akses detail kontak.
 - **Detail Page**:  
